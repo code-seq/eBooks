@@ -1,0 +1,2388 @@
+this conference will now be recorded
+
+uh he know how to create account not a
+
+problem he's a working consultant
+
+okay okay right yeah
+
+guys as we discussed earlier
+
+about running
+
+okay
+
+contains four major sections
+
+one is functional number two technical
+
+number three integration part number
+
+four cloud in agent Azure part okay and
+
+as I told you in the demo of time
+
+meanwhile we are going to complete two
+
+projects one with regular
+
+base every day we used to do some
+
+Project work on that instance trial
+
+instance while we are learning the
+
+concepts another one is at the end of
+
+the complete training I'm going to
+
+assign you one project where you will do
+
+it by yourself and I'll guide you how to
+
+done what to do there are two things
+
+which you are going to cover okay
+
+there's a part of uh regularization it's
+
+not a demo part today onwards the
+
+session is started training is started
+
+today we are going to cover a functional
+
+module that is sales module since there
+
+are few guys who doesn't know how to
+
+create the trial instance and how to get
+
+into the CRM I will start from code from
+
+base like how to get it starting from
+
+how to create the right instance
+
+so okay
+
+topics which we are going to cover today
+
+first one is how to create drag instance
+
+second one what is admin dot
+
+microsoft.com
+
+third one is
+
+what is
+
+seals
+
+module functional
+
+flow we are going to see these things
+
+today
+
+the first one trial instance
+
+you need to go to www dot
+
+trials
+
+Dot Dynamics
+
+.com okay
+
+so go to
+
+so basically additions will be for the
+
+30 days after that it is we need to
+
+create a new Dimensions the data that is
+
+created in the Traditions will be
+
+available for the 45 days for the
+
+customers who want to convert they're
+
+trying to production after 45 the data
+
+will be lost after 30 days the instance
+
+will become inactive you can't create
+
+the data but you can see the existing
+
+data and the
+
+customizations that you have done in the
+
+trial instance you cannot
+
+input you cannot move it from a one
+
+driving instance to another transistence
+
+it will not support okay there's a few
+
+things that need to be known
+
+about the trial instance
+
+earlier uh we will have sales marketing
+
+service
+
+free services provideration everything
+
+under one application now the divided
+
+the applications into small apps okay
+
+every model into small app we can
+
+connect separately to each and every
+
+model okay see first for the train
+
+instance for the sales try for free
+
+here actually when you are creating
+
+transitions for the first time
+
+we don't know the ID right so when you
+
+click on
+
+start for free here you'll get the link
+
+without entering the ID the link will be
+
+activated click on click here
+
+it will guide you to create an account
+
+for the trial instance email area of
+
+your choice
+
+what are the email ID that you have you
+
+can go with that I mean even Gmail ID
+
+will work here
+
+okay but my suggestion is in order to
+
+get the complete features in order to
+
+get the complete features when you give
+
+a Gmail ID the system will consider it
+
+as
+
+personal email ID personal ID okay
+
+if you do any at the rate with the
+
+domain name commercial domain name it
+
+will consider it as
+
+customer company account so temporarily
+
+with the help of temp
+
+email with the help of Camp email
+
+you can create a domain
+
+rather it
+
+some domain some commercial domain so go
+
+to Temp email
+
+here it will give the ID okay here it
+
+will leave the ID so copy this ID
+
+some to the dimensions
+
+and yields already here next now the
+
+Microsoft thing set
+
+whatever I domain that have created is
+
+official one it's not a personal one of
+
+course we can change that mainly later
+
+okay I'll repeat this part
+
+see when you register with a Gmail ID
+
+Microsoft assumes that it's a personal
+
+ID it may not give the complete features
+
+of the dynamic CRM
+
+if you create a temporary ID with some
+
+domain business domain by using temp
+
+mail.com okay
+
+if you decide with this one Microsoft
+
+thinks that you are working on some
+
+company some business so every almost
+
+all features will be available I suggest
+
+you to create a temporary domain and
+
+work on that okay now here we'll get the
+
+details like
+
+when credit
+
+CRM
+
+phone number you need to give the phone
+
+number which is active because you'll
+
+get the
+
+prompt SMS prompt 9618
+
+and here the company name temporary it
+
+can give anything
+
+employees five to nine or the tempting
+
+magnetic issue creates you can give even
+
+this domain name as a company name
+
+gusra
+
+right here India code because we will
+
+get the message SMS for the verification
+
+I write next
+
+yes
+
+text me it will send the verification
+
+code
+
+we need to enter the verification code
+
+which way
+
+get it through SMS
+
+nine zero
+
+nine
+
+refine and four
+
+verified
+
+foreign
+
+right next
+
+[Music]
+
+foreign
+
+in
+
+cloud in azure.com your account is
+
+creating and the CRM license is
+
+assigning to you
+
+it's a try instance customer engagement
+
+trial instance for 30 days as a global
+
+administrator the initial user who log
+
+into the system or who creates the
+
+account is a global administrator he is
+
+a super powerful
+
+person who have entered access
+
+everything okay in generally uh in real
+
+in real time scenario they are the
+
+people who will manage the account
+
+application their system administrators
+
+they are system administrators and we
+
+are going to cover an admin module where
+
+the roles and responsibilities of system
+
+administrator are CRM administrator will
+
+be uh I mean we will demonstrate there
+
+you are going to learn what are the
+
+responsibilities how the system
+
+administrator perform his responsibility
+
+and what are his responsibilities here
+
+now you can change because
+
+generally we don't get this mail right
+
+so we can change the mail
+
+you can write the original mail
+
+save it
+
+we need to give the address
+
+mandatory fields
+
+[Music]
+
+foreign
+
+so here earlier uh there they are just
+
+creating the accounts But Here recently
+
+they started asking for
+
+pan and pan number pan card number okay
+
+so your ID number pan card number give
+
+the pan number here or any
+
+um uh you will have account right
+
+permanent account number with tax or any
+
+credit card number if you give something
+
+here it will register just to avoid the
+
+duplicate instances just over the
+
+duplicate instances from here the
+
+registration is completed and you will
+
+once the registration is done you will
+
+get into admin.microsoft.com since I
+
+already created a transitions I can't
+
+give pan ID here but you guys just give
+
+the pan details and click on Save it's
+
+going to create a trial instance one
+
+month 30-day style instance okay
+
+right
+
+so now we will get into
+
+okay I'll share this link
+
+so that it will help you to create
+
+this is a message option
+
+hi Ravi
+
+chart okay
+
+this is a mail ready to create a domain
+
+to create a temporary Melody with domain
+
+okay and
+
+trial start
+
+dynamics.com to create a driving license
+
+right now once you've created the trial
+
+instance you need to get it into the
+
+so you are being a global administrator
+
+you need to get into the admin module so
+
+admin.microsoft.com
+
+this is the first step
+
+this is the first step get into
+
+admin.microsoft.com
+
+okay sign in with my old id this is
+
+venkat Durga
+
+there is he is a global administrator
+
+guys meanwhile uh just
+
+now type your Gmail ID here I will
+
+create a trial in IDs I will assign any
+
+ideas to all of you so that you there is
+
+no need to create a Traditions again you
+
+can work with directly with my instance
+
+as I told you we'll have two
+
+objects one is
+
+on classroom project okay one is
+
+classroom project where I am going to
+
+assign
+
+some work for you guys you need to do it
+
+every day
+
+for this classroom project I need to
+
+create
+
+the
+
+uh I mean users with roles this is a CRM
+
+roads for this just send your Gmail IDs
+
+in Communicator just send your Gmail ID
+
+so I'll create an account for all of you
+
+guys okay once you log into the
+
+admin.microsoft.com you will come to the
+
+admin module this is called admin module
+
+administrator
+
+will do all his tasks from here only to
+
+ask you from here in admin.microsoft.com
+
+the very first option is
+
+users users okay active users now there
+
+is only one active user that is venka
+
+Durga at the right tbs190. on
+
+microsoft.com what is he he is a global
+
+administrator he is a global
+
+administrator now he can create the
+
+users with the different roles and he
+
+can assign the licenses to the to the
+
+users to the users okay let me start
+
+creating your users
+
+starting from yogesh Okay add a user
+
+add your user
+
+yogesh
+
+last name
+
+CRM
+
+display name ID
+
+you wish
+
+I did it
+
+I am going to create a password
+
+the password is shift one two three four
+
+capital a
+
+51 2 3 4 capital A B C D this is your
+
+password which you can log into system
+
+with this password and your username is
+
+yogesh at the rate TB is 190 on
+
+microsoft.com
+
+next
+
+I'm going to I'm being a global
+
+administrator venkat Durga I'm going to
+
+give you
+
+the CRM engagement plan Trend plan where
+
+you will get
+
+the license will be assigned to you and
+
+you can be able to access all Dynamic
+
+serum apps but I am not given to Field
+
+Services we'll work with this later
+
+okay and I'm not giving an administrator
+
+privilege to you you are a normal user I
+
+will assign some role to you with
+
+respect to Dynamic CRM
+
+finished adding now yogesh is creating
+
+and the licenses are sent to yogesh and
+
+this is yogesh
+
+username
+
+You'll wish you can join to CRM I'll
+
+give the CRM instance directly with this
+
+ID
+
+okay
+
+yeah it's a common password I'm giving
+
+password to everyone I'll give you
+
+everyone
+
+is done
+
+what is
+
+can you spell your name
+
+the person one who login is
+
+your name
+
+sorry
+
+okay nice okay okay I'm creating account
+
+for sure
+
+[Applause]
+
+CRM
+
+foreign
+
+and the same password
+
+one two three four capital A B C D
+
+common password to everyone
+
+next
+
+I am giving 365 license
+
+next
+
+finish
+
+close Okay and add a user
+
+who's next Sharif
+
+Sharif
+
+Sheriff CRM
+
+shift one two three four capital A B C D
+
+same password to everyone
+
+same license
+
+finish
+
+next Salman Sheikh
+
+close
+
+add a user
+
+Salman from today onwards we are going
+
+to work on these things with the
+
+classroom institutions
+
+it's one two three four capital A B C B
+
+trial instance license
+
+finish
+
+next
+
+Sharif
+
+Sharif is done Salman
+
+Salman is done
+
+next bhavesh
+
+an
+
+CRM
+
+[Applause]
+
+51
+
+two three four capital A B C B
+
+next
+
+trial engines next next finish
+
+and finally Anand
+
+close add your user
+
+Anand
+
+CRM
+
+one CRM
+
+yes
+
+yeah I'm giving I'm creating your
+
+yeah in classroom trial instance you
+
+need to create your own relations
+
+that is so nice
+
+so perfect
+
+now all you guys are assigned with the
+
+customer engagement plan Dynamic CRM
+
+plan okay now you can be able to access
+
+but what is our trial instance come to
+
+all admin centers
+
+guys I will do some assignments for you
+
+you know to do that one at the end of
+
+the training today
+
+every day I used to do that instant
+
+classroom Labs One Second Avenue and I
+
+will monitor
+
+yeah
+
+I'll monitor in this instance without
+
+doing it or not
+
+even for the global administrator the
+
+password is same if you want you can if
+
+you want to check just login with my
+
+Venture together it
+
+tbs190 dot on microsoft.com
+
+yeah we have
+
+Devin's Dev environment trial
+
+environment see guys when first you need
+
+to go to admin.microsoft.com and then
+
+all admin centers
+
+and admin centers you'll have Dynamics
+
+365 apps when you click on here you will
+
+come to the Power Platform
+
+this is the Power Platform the Power
+
+Platform consists of environments in
+
+real-time scenario every company will
+
+create at least three training exchange
+
+three environments
+
+what are the three environments one is
+
+admin environment sorry Deb enrollment
+
+another one is stressed environment and
+
+finally production neuronic this is
+
+minimum minimum three the dev
+
+environment have the access only to the
+
+Developers
+
+only to the developers software
+
+Engineers who are going to develop the
+
+features the tester environment will
+
+have access only to the test engineers
+
+test is there is where they will test it
+
+this is called q18 where they will test
+
+and confirm whether the developers want
+
+their problem is as for the business
+
+requirement or not if it's not as per
+
+the business requirement they will raise
+
+the bugs they will raise the bugs If
+
+they raise the bugs automatically the
+
+code comes back to the developers the
+
+developers will fix that issue and again
+
+they will
+
+move it to the QA environment once the
+
+QA
+
+is confirmed once the QA is confirmed
+
+that
+
+everything is fine then it will go to
+
+production environment
+
+who will move the move the change into
+
+production one bacteria team will move
+
+to the code from keyword to production
+
+so developers never have direct access
+
+to production creative team will have
+
+the production some big companies that
+
+is another environment called pre-prod
+
+pre-prod environment where they will
+
+have the customer
+
+Curative customer engagement query where
+
+they will press the requirements and if
+
+it is correct working as per expected
+
+then they will allow to move to the
+
+production they will move the production
+
+even test security don't have the access
+
+to the production I'll repeat the
+
+environments once again
+
+okay there are generally for the small
+
+companies three environments for the big
+
+companies we have four environments the
+
+first one is developers environment
+
+where did her access to developers they
+
+used to develop the code once it out of
+
+the code they will test the same code in
+
+QA environment they will move the code
+
+to the QA environment in QA environment
+
+the testing team will test the code and
+
+they will confirm whether it is correct
+
+a working as per expectation or not if
+
+it is not they will raise the bugs and
+
+create until the developers fix that
+
+issue the code will not move to the
+
+pre-broad environment once the issues
+
+are fixed it will go to pre-prod
+
+environment the pre-broad environment is
+
+a customer environment where there are
+
+business analyst functional Consultants
+
+senior business analyst they will check
+
+the code is working as per the
+
+requirement or not if once they confirm
+
+the requirement the code is working as
+
+per as per the requirements these guys
+
+will move to the production
+
+so developers don't have access to qva
+
+and pre-broad and keyway don't have
+
+access to the production and pre-prod
+
+will have the access to the production
+
+this is hierarchy top two level so that
+
+three level of testing will be done and
+
+the perfect code will be moved to the
+
+production so who will create the
+
+environments
+
+the global administrator will create the
+
+environments where they will create the
+
+environments in Power Platform admin
+
+Center in Power Platform admin Center in
+
+trial instances it will allow only one
+
+environment to create if you try to
+
+create another environment
+
+by default you will get one default
+
+environment Additionally you can create
+
+one more environment if you try to add
+
+another environment the system will not
+
+Arrow because it will the trial instance
+
+will give only 5 GB for each instance
+
+more than 5gb data they don't allow you
+
+to give the data so if you try to create
+
+one more trial instance it will say that
+
+there is no allocated memory for you so
+
+we will track let us see what will
+
+happen new
+
+choose
+
+okay
+
+QB and environment we'll try to create
+
+QA environment
+
+giveaway environment
+
+India and here the region based on the
+
+region what you selected
+
+the currency will be allocated if you
+
+select USA the currency will be
+
+dollars if you select India the currency
+
+will be rupee and once you at the time
+
+of creating any environments whatever
+
+the name that you will give and whatever
+
+the the currency that you select that is
+
+the final one you cannot change one
+
+software creating trial instance few
+
+things are
+
+cannot be deleted and cannot be changed
+
+that is
+
+the currency what you have given will be
+
+fixed you can't change the currency once
+
+it is created the second thing is the
+
+instance name what you created with the
+
+help of the name with that name the
+
+business unit root business unit will be
+
+created the root business units never be
+
+deleted never to be deleted but you can
+
+rename you can change the name of the
+
+root business unit this is the interview
+
+questions you will get
+
+what if I want to change the base
+
+currency in my instance how will you
+
+change that one you need to say the base
+
+currency never be changed you can't
+
+change only it will be created at the
+
+time of creating trial instance
+
+if you want to change the base currency
+
+you need to create an exchange currency
+
+exchange currency the exchange currency
+
+will act as a base connection to the
+
+customer okay if the customer is paying
+
+amount from USA to the India
+
+instance
+
+he can pay it into the dollars and it
+
+will convert into the rupees and it will
+
+store as a rupees in the base currency
+
+but the exchange currency what it will
+
+do it will convert that exchange
+
+currency into base currency don't worry
+
+about how how to do all this thing I let
+
+you I'll tell you in the future sessions
+
+but if this is a time to learn the what
+
+are the standard features that will not
+
+change
+
+the business unit name can't be deleted
+
+the base currency can't be changed
+
+okay
+
+these two uh just remember these two
+
+things now while creating an environment
+
+remember that go to trials subscription
+
+based child subscription based when you
+
+select the trial subscription base
+
+automatically creating a database will
+
+become visible
+
+see this is disabled
+
+if you go with sandbox or if you go with
+
+production or if you go with
+
+trial it is available but ours is trial
+
+subscription based automatically this is
+
+disabled pay as you go through Azure
+
+this is a part of an Azure Cloud
+
+environment whatever we are doing
+
+everything we are doing on the cloud
+
+so if you go as a trial if you go as a
+
+trial then the
+
+it will allow you to create a database
+
+but let me check okay let us check
+
+whether it will allow it or not see
+
+language also you can't change base
+
+language
+
+there is a transactional language where
+
+you can install
+
+uh even you can install Hindi Telugu
+
+Marathi kannada all all Global languages
+
+there is a separate package that will be
+
+available with the Microsoft we need to
+
+purchase that I'm going to import then
+
+the Translating language will be
+
+available but base language whatever the
+
+country that you selected that language
+
+will be applicable okay currency is also
+
+applicable
+
+once this is done deploy sample data yes
+
+I want a sample data for the practice
+
+purpose but once you deploy the sample
+
+data you can't be deleted you can't be
+
+deleted if you are preparing this
+
+instance for the production or for the
+
+live never install the trial instance
+
+trial data never installs the train data
+
+for the practice purpose install the
+
+trial data okay install the dry data
+
+click on Save
+
+click on Save
+
+the unit domain name will be generated
+
+click create the custom domain
+
+okay by default it will create
+
+a domain name right so I am giving
+
+the name of the domain as TBS QA
+
+EBS QA
+
+save
+
+so see you have reached the maximum
+
+limit of one trial environment you can't
+
+create
+
+because that is a limitation given to
+
+the trial instance so what we choosed we
+
+created Dev environment there's a
+
+default environment provided within
+
+Microsoft this is a different
+
+environment which is created by us okay
+
+now you guys just go to
+
+price.dynamics.com create your own
+
+instance get into admin module from that
+
+get into admin Dynamics apps from there
+
+create an environment by default you
+
+will have only one environment now you
+
+need to create one more environment one
+
+more environment okay
+
+now I am opening the dev environment
+
+I am going to Dev environment what are
+
+apps that we have in the development
+
+guys any questions so far
+
+am I going speed
+
+or you guys following me
+
+or do you have any questions any
+
+suggestions
+
+feel free to uh
+
+ask anything guys because this is the
+
+first session
+
+we are going to work on this
+
+for next or most two months
+
+you'll get any questions
+
+iPhone
+
+right
+
+oh yes but sir so a little bit means
+
+slow means
+
+Sharif
+
+sharath
+
+Salman Anand if you okay okay as Bobby
+
+said I'll make it a little slow okay no
+
+worry I will give a guide how to go step
+
+by step things you follow that one now I
+
+will share the environment link this is
+
+the environment link
+
+for our Dev environment for our daily
+
+unit whatever the assignments that I
+
+will provide give to you you need to
+
+work on this this
+
+environment so just
+
+click on
+
+click on this link
+
+once you click on this link
+
+it will prompt you to enter the username
+
+and password
+
+what I'll do is
+
+I'll go with private window
+
+copy
+
+right click
+
+new private window
+
+okay now it will ask me
+
+to log into system Diamond environment
+
+with username what I'll do is
+
+[Music]
+
+go with one of your
+
+IDs
+
+under user active users
+
+let me go with the
+
+TV Style
+
+okay
+
+okay then
+
+next
+
+one two three four capital A B C B
+
+any
+
+signing
+
+yes
+
+so barish is ideally logged into the
+
+development endurance CRM
+
+he should right because he have the
+
+trial instance
+
+but he can't he's getting the error
+
+why that is one question
+
+and I will share the password
+
+because
+
+a part of admin dot microsoft.com but
+
+bhavesh doesn't have any role in CRM
+
+okay
+
+admin.microsoft.com is a cloud
+
+environment which is a cloud environment
+
+where his Global administrator created
+
+the users
+
+but he did not mention bhavish is a part
+
+of which account
+
+here there are so many accounts active
+
+directory Dynamics c65 apps powerapps
+
+power automate right so I have given the
+
+license but in order to access all these
+
+things he must have the role he must
+
+have some role in Dynamics here
+
+so as a global administrator I should
+
+create
+
+a role in Dynamic CRM to him I should
+
+assign a role in Dynamic CRM
+
+okay now
+
+now I am getting into
+
+Dynamic CRM
+
+go to advanced settings
+
+advanced settings
+
+I know guys you are little
+
+the confusion will create now at this
+
+time because you are very new to the
+
+environment and we are moving between
+
+different modules
+
+first we started with the trial instance
+
+we went to admin module now we are
+
+coming into security model because this
+
+is a way how the real-time scenario
+
+works this is this is the way how the
+
+relative similar Labs will works I can
+
+create a trial instant and I can right
+
+away get into anywhere and I can start
+
+the sales module
+
+straight away but
+
+95 percent of the trainers they will
+
+never teach these things because the
+
+strength feels like little tough they
+
+will straight away get into CRM sales
+
+model and they will simply explain the
+
+functional functional part but once you
+
+enter the real time office then you
+
+don't know all these things which is
+
+very important which is mandatory which
+
+is mandatory so try to cooperate with me
+
+though it is little tougher practice at
+
+home and ask me tomorrow if any queries
+
+I'll clear that okay so don't feel
+
+burdened it's a mandatory thing so what
+
+I am teaching you is mandatory so now
+
+Barbies need a role I am an
+
+administrator I need to assign a role to
+
+bhavesh further what I need to do I need
+
+to come to my Divine environment once I
+
+come to Denver environment I need to go
+
+to settings
+
+advanced settings
+
+in the advanced settings
+
+I will come to
+
+settings
+
+and then
+
+security and then Security in the
+
+security I need to go to users
+
+I need to go to users
+
+here and you search
+
+yeah so we got Bobby CRM
+
+ID here now we'll assign a role to him
+
+manage rules
+
+I wanted to give access Barbies only for
+
+the sales module okay I want to go only
+
+for the sales model so what I need to do
+
+is I need to assign the role here I need
+
+to assign the role here so let me check
+
+the sales role
+
+wow
+
+service role
+
+later I will promote me as an admin but
+
+currently I will give a role 2 as a
+
+sales role
+
+if you
+
+service the system administrator
+
+there is no cell sold here
+
+welcome
+
+I will give him uh
+
+system customizer role system customizer
+
+role okay
+
+I have given him a system customer's
+
+role
+
+now barish can log into the system now
+
+bavish can log into system
+
+if I try to
+
+sign out and sign in to the
+
+developer environment
+
+password is incorrect so if one two
+
+three four chapter a b c d
+
+signing
+
+correct
+
+to refresh so this we assigned role just
+
+now
+
+to update in cloud and it will take some
+
+time it will take some time after five
+
+to ten minutes we'll try to login again
+
+with the babish ID now we'll try to give
+
+uh
+
+Sheriff I'll search
+
+user here
+
+Sharif
+
+meanwhile
+
+while searching for Sheriff name
+
+but it is not there
+
+why tariff why your name is not
+
+inflicting here
+
+because sir is forever to barish
+
+am I right
+
+why Sheriff name not here
+
+let us check with Anand let us check
+
+with another name
+
+another name also not there
+
+here everybody name is reflecting
+
+under users
+
+which is
+
+yeah yeah what could be the reason guys
+
+guess
+
+because it hasn't been imported into the
+
+Dynamics environment yet the user
+
+profile
+
+but why why should only imported
+
+because it's a global admin
+
+no no no no he's a normal user like you
+
+maybe because of the role you applied
+
+no I haven't I I send role later right
+
+one first he could not he got an error
+
+after ascending role he can be logged
+
+into the system
+
+so this is a bug this is a bug for the
+
+trial instance what your name should be
+
+activated or maybe by Design I don't say
+
+bug or by Design once you try to log
+
+into the environment then it is
+
+activating the user rows for you will
+
+get the error and even your name will be
+
+activated your name will be activated so
+
+that's when it's important you meant to
+
+say that's when it's important exactly
+
+exactly at that time it is importing
+
+till that time we try to log in it's not
+
+importing though we are creating users I
+
+think so it's by Design right
+
+it's but it is not it shouldn't be right
+
+see I I got a license
+
+no you might be having license but you
+
+haven't put up a rule at the application
+
+Level to import all users from Azure
+
+into Dynamics but but who is the person
+
+who is the person going to assign the
+
+role Global administrator that is
+
+a globally administrator when control is
+
+true to assign the user license license
+
+as well as role in the CRM
+
+and the environment group you mean to
+
+say the role ah yeah role so if I don't
+
+find the Salman or Anand nobody here
+
+rahuda is saying should I ask him
+
+without without the role you go and try
+
+for the login obviously it gives error
+
+yeah
+
+that is
+
+yeah actually it's a bug but by Design
+
+both so guys all I should try to log in
+
+to this Dev environment I showed you a
+
+link right please copy paste it into
+
+your notepad Okay try to log into this I
+
+lost those links in the chat because I
+
+had to reconnect can you please repost
+
+it to me please yeah yeah I will I will
+
+re send everything invest my copy paste
+
+please paste everything into local my
+
+sincere advice is
+
+try to
+
+maintain a book from day one onwards
+
+write everything on that book write your
+
+queries on that book
+
+and ask at the end of the session that
+
+will be the best practice and these
+
+every day I use student minimum five to
+
+six interview questions note it down
+
+because I'm a part of the panel I took
+
+almost more than 50 interviews okay
+
+eighty percent of the interview
+
+questions will be covered while giving
+
+the training where I will give the
+
+training just note it down on the book
+
+so that you will link up to these
+
+questions because when you read it on
+
+the uh I practice time it will register
+
+for you forever you can face the
+
+interview without any issue and this is
+
+the lifetime practice
+
+open the book 300 Page book within two
+
+to three years
+
+you will have every question on that
+
+throughout your credit it will be
+
+helpful for you throughout your career
+
+please create one guide for yourself
+
+please note it down on the book and
+
+write it on the with the pen this is the
+
+best practice which I used to follow
+
+which I used to follow okay whether you
+
+can maintain it in the soft copy or hard
+
+copy what's up to you whether you want
+
+to open a book or you can maintain it on
+
+the notepad it's up to you but start
+
+writing the questions from today okay
+
+dragons uh so I have a small request I
+
+don't have my username in there like the
+
+email address
+
+yeah everybody's the same formula your
+
+name followed by CRM domain name on
+
+microsoft.com
+
+is a username and the password is shift
+
+one two three four capital A B C B these
+
+are possible one of you please try to
+
+login then only your users will be
+
+activated so that I can assign the rules
+
+note on the labs for today note on the
+
+labs for today
+
+one is
+
+create
+
+file instance
+
+we'll do I'll write it the notepad and
+
+I'll paste one set it and
+
+that's for today
+
+first bodies
+
+pay trial instance
+
+second thing is
+
+create
+
+users
+
+third thing is
+
+assigned
+
+Dynamics
+
+365
+
+engagement trial license
+
+fourth one is
+
+create
+
+Dev environment
+
+create their environment
+
+okay I'll ask Ravi to share this
+
+training recorded session Whenever there
+
+is a difficulty when you are getting
+
+into multiple uh links I will ask Rabbi
+
+to share those links or record sessions
+
+all recognitions will not be provided
+
+but whenever wherever we'll feel there
+
+is a difficulty to remember to follow
+
+then or ask rabbit to share a video
+
+recorded video only for few sessions all
+
+together you will get 10 such videos
+
+okay there are 10 different areas where
+
+you it is difficult to follow for you
+
+guys I know this is the first day and we
+
+are we are connected to different things
+
+trial instance admin module and again
+
+Power Platform and finally into CRM
+
+there are multiple steps that's why I
+
+will ask Ravi to share today's video you
+
+just follow that and practice it
+
+so that's it for today's session slowly
+
+we'll increase the time otherwise it
+
+will become a burden for you usually I
+
+will take one or one and a half hour
+
+every day every day okay so any
+
+questions on today's uh I mean session
+
+guys
+
+previously I created
+
+you created Island since yes
+
+okay good then you can go with that for
+
+your practice and try to login into our
+
+classroom instance for the assignments
+
+which I have given
+
+foreign
+
+your own trial instance and then once
+
+you get the output you do the same in
+
+our incident classroom instance so that
+
+I will Monitor and I can I know what you
+
+guys are doing
+
+at the end of the uh I mean 30 days I
+
+can tell you who are all practicing and
+
+who are not practicing
+
+based on that
+
+so it's for monitoring purpose just do
+
+the assignment water I'll give in
+
+regular class instance and practice in
+
+your own instance
+
+any questions
+
+so can we use trial instance which you
+
+created just to do our stuff rather than
+
+creating new one no no you can use it
+
+see why I'm only asking you to get a
+
+tile instance
+
+for your own practice there are
+
+differences
+
+ah practicing for your own purpose once
+
+you practice that and you'll get the
+
+output after that you can implement the
+
+same in our classroom instance so that I
+
+can understand what you are doing
+
+yeah
+
+that's the idea behind creating your own
+
+relations other than that nothing we can
+
+work on the one instance everybody I am
+
+going to give you an system
+
+administrator in future
+
+I'll first I'll send you the customizer
+
+and then sales administrator and slowly
+
+into system administrator so that you
+
+can understand the hierarchy in the
+
+security module
+
+still when creating the environment you
+
+created the trial
+
+you can practice on the day when you run
+
+I shared you the David environment you
+
+can't create any environments in in our
+
+classroom thing because only one
+
+environment additionally is limited it
+
+won't allow you to create anything
+
+my question is like can we create a
+
+security group and then relate it at the
+
+start and then restrict that is what the
+
+idea it is is under security module
+
+under security module I am going to
+
+divide you guys into three different
+
+groups groups okay friends yeah sales
+
+marketing and admin our training is
+
+totally different you will understand
+
+slowly it's not like outside training
+
+it's not like outside and like just
+
+starting with functional and they will
+
+cover 30 days for the function they will
+
+say almost done no we are not like that
+
+that's why I have done a clear cut idea
+
+our training is four modules
+
+two weeks for Consulting and
+
+administration two weeks for technical
+
+2x Square integration and 2 weeks for
+
+azure
+
+we will cover everything
+
+I am going to create a groups and I will
+
+assign the rules all business processes
+
+and business employees everything
+
+everything
+
+uh I ask rabi to share the content I
+
+already given the content to Ravi there
+
+you can see what order we are going to
+
+cover the topics business process flows
+
+workflows custom workflows actions
+
+dialogues everything is going to cover
+
+all this comes under the processes you
+
+say four day session four day session
+
+by Davis I have given the training plan
+
+you can monitor that and you can go yeah
+
+take that take it from Ravi I already
+
+handed more than 50 batches I have 11
+
+years of experience only in CR and Dot
+
+Net 10 years all together 20 years I'm
+
+an architect
+
+yeah
+
+yeah no worries guys just believe me and
+
+follow me most of the guys are very
+
+serious initially just within two weeks
+
+they will leave the training aside and
+
+they don't practice
+
+the people who practice you always till
+
+now there are submissions are connected
+
+to me they are very happy but you don't
+
+practice waste none of the people will
+
+help you
+
+till the time
+
+you are strong in the subject
+
+the subject is your god
+
+and subject is a food supplier
+
+subject is everything if you are strong
+
+in subject you will travel travel
+
+globally
+
+you will hike your service
+
+and you will be the king of the
+
+workplace
+
+so please please practice practice every
+
+day till the training completes every
+
+day just spare
+
+two hours one hour by the class one hour
+
+for the practice and ask me after four
+
+weeks eight weeks
+
+where you land
+
+if you don't practice nobody can help
+
+you nobody maybe there are shortcuts to
+
+get the jobs and all but those are
+
+temporary
+
+you'll get jobs very fast mannered with
+
+shortcuts and you will lose the jobs in
+
+the shortcut manner very fastly even
+
+though you sustain you don't get the
+
+peace
+
+you don't get the peace in the workplace
+
+so these statements because I don't want
+
+to point anyone
+
+but we do the subject to practice just
+
+practice I'll cover everything
+
+thank you
+
+yeah sir um
+
+CRM is very new to us uh we will refer
+
+your video today and we will try to
+
+understand because it is very new server
+
+where the new platforms that's why I
+
+have I have better experience that's why
+
+I asked I will ask Ravi to share the
+
+video
+
+I know what are the areas that are
+
+difficult to understand for you guys and
+
+what are simple to practice whenever you
+
+look at the difficult area I'll ask rabi
+
+to share the video
+
+okay okay yes however you record every
+
+day but we don't share all the days
+
+okay yes sir
+
+why then that's even for your sake if
+
+you go the videos every day just
+
+postpone your practice and everything I
+
+will do it later I will do it later that
+
+later Never Comes
+
+correction
+
+um sir Instagram
+
+can you please check my ID and the
+
+password sir it is showing like when I
+
+am going to login it's showing the
+
+internet ID and password I'll show you
+
+yeah yeah okay
+
+one method
+
+s the password is same I'll do one thing
+
+I'll tell you everybody's
+
+let's go that
+
+salmon
+
+password is same
+
+then Sharif
+
+then yogesh
+
+babish you were already
+
+chilling only practice questions
+
+now that is expected that is expected I
+
+can't I can't upload a picture so that
+
+everyone can see
+
+uh yeah you can no problem
+
+okay I need to give
+
+away yeah so that everyone can see what
+
+what they can what error message comes
+
+like
+
+I'll make you presenter now you can do
+
+it yeah yeah
+
+no you can all right
+
+so you can see
+
+everybody
+
+need to get this error okay I will send
+
+roles to you guys tomorrow onwards you
+
+can log in so it clearly says that user
+
+has no role no role
+
+yep normally if there was a security
+
+group
+
+it will say that you're not a member of
+
+environment group right exactly that is
+
+for the real-time scenario we haven't
+
+come in that part we are slowly getting
+
+to that point yeah
+
+so I'll give you back control
+
+how do I give control back no issue
+
+anyhow the class session is closed okay
+
+right guys we'll continue uh we'll
+
+connect tomorrow slowly I will extend
+
+the session to one and half hour okay
+
+strictly neutrals within two weeks
+
+so uh initially we will go a little slow
+
+but just within four to five days you'll
+
+get into the normal uh
+
+speed
+
+in case if you face any issue if you are
+
+unable to release follow me or if I'm
+
+speed or whatever be feel free guys feel
+
+free to ask me I'm not a strict lecturer
+
+I'm like your friend just uh give it on
+
+the chat window if you have any language
+
+issues
+
+whatever you are free with greatest
+
+purpose we can follow okay right guys
+
+all the best thank you sir thank you
+
+yeah we'll connect tomorrow
+
+thank you can you please assign role for
+
+me
+
+yeah yeah I will listen uh after some
+
+time okay thank you thank you yeah
+
